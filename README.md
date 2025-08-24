@@ -1,4 +1,4 @@
-<img width="875" height="690" alt="Screenshot 2025-08-24 154055" src="https://github.com/user-attachments/assets/d108b537-0277-47dc-9620-92c89c2f6527" />🏡 Energy Consumption Prediction using Machine Learning
+🏡 Energy Consumption Prediction using Machine Learning
 
 This project focuses on predicting household energy consumption based on factors such as number of occupants, appliances, and square footage. By applying Linear Regression and testing different approaches, the goal is to understand which features are most relevant and how well machine learning can capture real-world energy usage patterns.
 
